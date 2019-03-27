@@ -34,7 +34,7 @@ function draw() {
   removeStuff(food, 0.005)
   removeStuff(poison, 0.0075)
 
-  drawStuff(food, color(0, 255, 0))
+  drawStuff(food, color(0, 230, 0))
   drawStuff(poison, color(255, 0, 0))
 
 
